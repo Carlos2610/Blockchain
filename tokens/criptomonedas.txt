@@ -1,0 +1,39 @@
+UNA CRIPTOMONED permite establecer los
+protocolos para una blockchain
+
+La blockchain no podria funcionar sin el criptoasset
+(criptomoneda en cuestion)
+
+UN TOKEN nace y se gestiona de un smart contract
+por lo que está por encima de las criptomonedas en cuanto
+a nivel de abstraccion
+
+Se pueden generar tantos tokens como smart contracts,
+pero sin smart contracts no se pueden generar tokens
+
+Una cirptomoneda sirve para comprar y vender o cualquier funcion
+Un token tiene una función y su valor se respalda
+en su funcion de negocio
+
+Una criptomoneda esta respaldada con una tecnología y eso hace que
+su valor suba o baje.
+
+
+Ethereum añade smart contracts por lo tanto su tecnología le da valor
+
+TOKENS FUNGIBLES Y NO FUNGIBLES
+-No fungibles no es coleccionable, no tiene entidad propia
+-Fungible si que es coleccionable
+
+Pueden representar algo como una obra de arte - no fungible
+Pueden representar euros - fungible
+
+
+Con solidity creamos un token ERC20, para crear una criptomoneda
+tambien habría que crear una blockchain propia
+
+
+
+
+
+
